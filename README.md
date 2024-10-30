@@ -11,3 +11,11 @@ Programing Language Name: Mythic+
 Current Version: 0
 
 -------------------------
+
+Main Language Used: Java
+
+Possible Single Line Commenting System: #
+
+Possible Multi Line Commenting System: #- -#
+
+------------------------
